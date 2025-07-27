@@ -25,8 +25,10 @@ In the project directory, run:
 npm install
 npm start
 
+```
+
 Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+Open http:http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
@@ -47,15 +49,14 @@ npm test
 Launches the test runner in interactive watch mode.
 
 npm run build
-Builds the app for production to the build/ folder.
+Builds the app for production to the build/folder
 
 npm run eject
 ⚠️ Note: this is a one-way operation. Once you eject, you can’t go back!
 
 📚 Learn More
-
 React Documentation
 Create React App Guide
 
 👤 Author
-GitHub: suga-25
+GitHub:suga-25
